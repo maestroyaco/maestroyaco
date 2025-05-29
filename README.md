@@ -39,7 +39,7 @@ Mi enfoque se centra en:
   <br><br>
   <strong>Editores Favoritos:</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=intellij,idea,eclipse,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode&theme=dark" />
   </a>
   <br><br>
   <strong>Experiencia VPS y Cloud:</strong><br>
@@ -53,8 +53,7 @@ Mi enfoque se centra en:
 ### 🚀 Mis Proyectos Destacados
 
 *   👾 **[MorphNPC](https://github.com/maestroyaco/MorphNPC):** Open Source que te permite personalizar tus NPCs y darles vida en tu servidor privado.
-*   🕹️ **[1EMU.FUN](https://github.com/maestroyaco/1EMU.FUN) (Próximamente):** Un emulador retro privado con un innovador modo héroe.
-*   
+*   🕹️ **[1EMU.FUN](https://github.com/maestroyaco/1EMU.FUN) (Próximamente):** Un emulador retro privado con un innovador modo héroe.   
 ---
 
 ### 👥 Únete a Nuestra Comunidad
