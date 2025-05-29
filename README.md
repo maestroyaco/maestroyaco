@@ -1,6 +1,6 @@
 <p align="center">
   <!-- OPCIONAL: Considera añadir un banner aquí. Puede ser una imagen que hayas creado. -->
-  <img src="[Banner-Yaco](https://1emu.fun/Baner-git-yaco.png)" alt="Banner Maestro Yaco" width="700"/>
+  ![Banner Maestro Yaco](https://1emu.fun/Baner-git-yaco.png)
 </p>
 
 <h1 align="center">¡Hola, soy Maestro Yaco! 👋</h1>
