@@ -13,18 +13,18 @@
 
 ### 👨‍💻 Sobre Mí
 
-Soy un apasionado desarrollador colombiano 🇨🇴 con una década de experiencia en la **emulación de servidores privados**, navegando entre aciertos y valiosos aprendizajes. Actualmente, estoy reconstruyendo mi legado y mi camino profesional a través de la **programación**, el **diseño UI/UX** y el vibrante mundo del **código abierto (Open Source)**.
+Soy un apasionado desarrollador colombiano con una década de experiencia en la **emulación de servidores privados**, navegando entre aciertos y valiosos aprendizajes. Actualmente, estoy reconstruyendo mi legado y mi camino profesional a través de la **programación**, el **diseño UI/UX** y el vibrante mundo del **código abierto (Open Source)**.
 
 Mi enfoque se centra en:
-*   🎮 Crear y mantener comunidades alrededor de **servidores privados y videojuegos MMORPG**.
-*   🌍 Fomentar un espacio para la comunidad **latino-francesa** interesada en la emulación.
+*   🎮 Aprender, crear y enseñar alrededor de: **servidores privados y videojuegos MMORPG**.
+*   🌍 Quiero unificar la comunidad: **latino-francesa** interesada en la emulación.
 *   💡 Transformar ideas en proyectos funcionales y con impacto.
 
 ---
 
-### 🌱 Actualmente Profundizando en
+### 🌱 Actualmente mejorando en
 
-*   ☕ **Java:** Llevando mis conocimientos a un nivel experto para el desarrollo de aplicaciones robustas y escalables.
+*   ☕ **Java:** Toda mi vida espere y soñe, ahora vivo cada dia en ellos. La acción cambia vidas.  
 
 ---
 
