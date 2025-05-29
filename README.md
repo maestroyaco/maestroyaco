@@ -1,6 +1,6 @@
 <p align="center">
   <!-- OPCIONAL: Considera añadir un banner aquí. Puede ser una imagen que hayas creado. -->
-  <!-- Ejemplo: <img src="URL_DE_TU_BANNER.png" alt="Banner Maestro Yaco" width="700"/> -->
+  <img src="[Banner-Yaco](https://1emu.fun/Baner-git-yaco.png)" alt="Banner Maestro Yaco" width="700"/>
 </p>
 
 <h1 align="center">¡Hola, soy Maestro Yaco! 👋</h1>
@@ -33,13 +33,18 @@ Mi enfoque se centra en:
 <p align="center">
   <strong>Lenguajes y Frameworks:</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,css,html,php,python,java,vite&theme=light" />
+    <img src="https://skillicons.dev/icons?i=docker,js,css,electron,html,php,laravel,python,java,vite&theme=dark" />
     <!-- Para tema oscuro, cambia theme=light por theme=dark -->
   </a>
   <br><br>
   <strong>Editores Favoritos:</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=intellij,eclipse,vscode&theme=light" />
+    <img src="https://skillicons.dev/icons?i=intellij,ide,eclipse,vscode&theme=dark" />
+  </a>
+  <br><br>
+  <strong>Experiencia VPS y Cloud:</strong><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ubuntu,aws,gcp,azure&theme=dark" />
   </a>
 </p>
 
@@ -47,14 +52,14 @@ Mi enfoque se centra en:
 
 ### 🚀 Mis Proyectos Destacados
 
-*   👾 **[MorphNPC](https://github.com/maestroyaco/MorphNPC):** Un proyecto Open Source que te permite personalizar tus NPCs y darles vida en tu servidor privado. ¡Dale un toque único a tu mundo!
-*   🕹️ **[1EMU.FUN](https://github.com/maestroyaco/1EMU.FUN) (Próximamente):** Un emulador retro privado con un innovador modo héroe. ¡Prepárate para revivir los clásicos como nunca antes!
-
+*   👾 **[MorphNPC](https://github.com/maestroyaco/MorphNPC):** Open Source que te permite personalizar tus NPCs y darles vida en tu servidor privado.
+*   🕹️ **[1EMU.FUN](https://github.com/maestroyaco/1EMU.FUN) (Próximamente):** Un emulador retro privado con un innovador modo héroe.
+*   
 ---
 
 ### 👥 Únete a Nuestra Comunidad
 
-¡Tenemos una comunidad creciente y activa! Si te interesan los servidores privados, VPS, videojuegos MMORPG o eres parte de la comunidad latino-francesa de emulación, ¡este es tu lugar!
+¡Tenemos una comunidad creciente y activa! Si te interesan los servidores privados, VPS, videojuegos MMORPG. ¡este es tu lugar!
 
 <p align="center">
   <a href="https://discord.gg/yZnADDUKHx" target="_blank">
