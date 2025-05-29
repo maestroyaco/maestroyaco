@@ -39,7 +39,7 @@ Mi enfoque se centra en:
   <br><br>
   <strong>Editores Favoritos:</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=intellij,ide,eclipse,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=intellij,idea,eclipse,vscode&theme=dark" />
   </a>
   <br><br>
   <strong>Experiencia VPS y Cloud:</strong><br>
