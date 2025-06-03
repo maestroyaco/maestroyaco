@@ -61,9 +61,13 @@ Mi enfoque se centra en:
 ¡Tenemos una comunidad creciente y activa! Si te interesan los servidores privados, VPS, videojuegos MMORPG. ¡este es tu lugar!
 
 <p align="center">
-  <a href="https://discord.gg/yZnADDUKHx" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord de la Comunidad"/>
+ <p dir="auto">
+  <a href="https://discord.gg/yZnADDUKHx" rel="nofollow">
+    <img src="https://discord.com/api/guilds/1327715038928175165/widget.png?style=banner2" 
+         alt="Discord Banner" 
+         style="max-width: 100%;">
   </a>
+</p>
 </p>
 
 ---
