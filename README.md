@@ -53,7 +53,7 @@ Mi enfoque se centra en:
 ### 🚀 Mis Proyectos Destacados
 
 *   👾 **[MorphNPC](https://github.com/maestroyaco/MorphNPC):** Open Source que te permite personalizar tus NPCs y darles vida en tu servidor privado.
-*   🕹️ **[1EMU.FUN](https://github.com/maestroyaco/1EMU.FUN) (Próximamente):** Un emulador retro privado con un innovador modo héroe.   
+*   🕹️ **Building EMU**   
 ---
 
 ### 👥 Únete a Nuestra Comunidad
